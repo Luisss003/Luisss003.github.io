@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  Luisss003 # the username of your GitHub account
 
 # Build settings
-theme: minima
+theme: time-machine
 plugins:
   - jekyll-feed
 
