@@ -80,7 +80,7 @@ export default function Projects() {
             rel="noopener noreferrer"
             className={styles.projectLink}
           >
-            View on GitHub - 
+            View on GitHub
           </a>
         )}
       </li>
